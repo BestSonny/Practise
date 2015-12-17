@@ -25,3 +25,6 @@ cmake_build
 CMakeFiles
 cmake_install*
 CMakeCache*
+Demo
+demo
+config.h
