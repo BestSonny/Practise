@@ -1,5 +1,5 @@
 ## General
-
+*.out
 # Compiled Object files
 *.slo
 *.lo
@@ -23,3 +23,5 @@ distribute/*
 cmake_build
 .cmake_build
 CMakeFiles
+cmake_install*
+CMakeCache*
