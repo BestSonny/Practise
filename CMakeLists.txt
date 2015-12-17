@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 2.8.7)
 
 # 项目信息
-project (Build)
+project (Demo 0.0.1)
 
 # 指定生成目标
 #add_executable(demo main.cpp)
@@ -17,4 +17,4 @@ add_executable(demo ${DIR_SRCS})
 add_subdirectory(Math)
 
 # 添加链接库
-target_link_libraries(Demo MathFunctions)
+target_link_libraries(demo MathFunctions)
